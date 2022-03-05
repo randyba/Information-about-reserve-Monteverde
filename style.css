@@ -1,0 +1,133 @@
+.all {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.header {
+  background-color: green;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 10px 10px 10px black;
+  position: sticky;
+  top: 10px;
+}
+h1 {
+  margin: 0px;
+}
+.pictures-1 {
+  display: flex;
+  margin-top: 25px;
+}
+.pi-column-a {
+  width: 25%;
+}
+.pi-column-b {
+  width: 75%;
+}
+.first-img {
+  width: 225px;
+  height: 225px;
+}
+.second-img {
+  height: 75px;
+  width: 125px;
+  margin-left: 40px;
+}
+.third-img {
+  margin-top: 25px;
+  height: 300px;
+  width: 800px;
+}
+.credits {
+  text-align: right;
+  margin-right: 30px;
+}
+.info {
+  display: flex;
+}
+.column-a {
+  margin-right: 50px;
+}
+.es-languaje {
+  display: flex;
+  margin-bottom: 20px;
+}
+.es {
+  background-color: green;
+  font-size: 20px;
+  color: white;
+  border-radius: 20px;
+}
+.p-es {
+  margin: 5px;
+}
+.l-es {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+.forest {
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+}
+h4 {
+  margin: 0px;
+}
+.history {
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+}
+.facts {
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+}
+.column-b {
+  margin-left: 50px;
+}
+.en-languaje {
+  display: flex;
+  margin-bottom: 20px;
+}
+.en {
+  background-color: green;
+  font-size: 20px;
+  color: white;
+  border-radius: 20px;
+}
+.p-en {
+  margin: 5px;
+}
+.l-en {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+.pictures-2{
+    display: flex;
+    
+}
+.colibri{
+    height: 286px;
+}
